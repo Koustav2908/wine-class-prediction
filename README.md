@@ -48,8 +48,8 @@ Summary of the dataset
 -   **Scaled Results**:
     1. _SVM_: SVM reached an accuracy increased to `100%`, whcih is prominent.
     2. _KNN_: Accuracy of `94%` is achived after Z-score normalization was used.
--   **Saving**: The two models and scaler is saved into a `pickle` file using joblib.
--   **Website**: The models are hosted using `Streamlit`. Users can go to the website and enter wine details and get desired prediction of class 0, 1, or 2.
+-   **Saving models**: The two models and scaler is saved into a `pickle` file using joblib.
+-   **Website**: The models are hosted using `Streamlit`. Users can go to the website and enter wine details and get output prediction of class 0, 1, or 2.
 
 ---
 
